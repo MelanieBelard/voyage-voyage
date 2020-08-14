@@ -1,0 +1,122 @@
+{ "cities": [
+    {
+        "name":"Bordeaux",
+        "lan":44.847807,
+        "lng":-0.579472
+    },
+    {
+        "name":"Pau",
+        "lan":43.293295,
+        "lng":-0.363570
+    },
+    {
+        "name":"Nantes",
+        "lan":47.215585,
+        "lng":-1.554908
+    },
+    {
+        "name":"Paris",
+        "lan":48.854885,
+        "lng":2.338646
+    },
+    {
+        "name":"Lille",
+        "lan":50.608719,
+        "lng":3.063295
+    },
+    {
+        "name":"Marseille",
+        "lan":43.293551,
+        "lng":5.377397
+    },
+    {
+        "name":"Nice",
+        "lan":43.701680,
+        "lng":7.260711
+    },
+    {
+        "name":"Lyon",
+        "lan":45.759132,
+        "lng":4.834604
+    },
+    {
+        "name":"Montpellier",
+        "lan":43.586120,
+        "lng":3.896094
+    },
+    {
+        "name":"Toulouse",
+        "lan":43.533513,
+        "lng":1.411209
+    },
+    {
+        "name":"Brest",
+        "lan":48.389353,
+        "lng":-4.488616
+    },
+    {
+        "name":"Limoges",
+        "lan":45.838771,
+        "lng":1.262108
+    },
+    {
+        "name":"Clermont-Ferrand",
+        "lan":45.780535,
+        "lng":3.093242
+    },
+    {
+        "name":"Tours",
+        "lan":47.404355,
+        "lng":0.688930
+    },
+    {
+        "name":"Strasbourg",
+        "lan":48.540395,
+        "lng":7.727753
+    },
+    {
+      "name": "Le Mans",
+      "lan": 47.981991,
+      "lng": 0.1254806
+    },
+    {
+      "name": "Orléans",
+      "lan": 47.8735097,
+      "lng": 1.8419966
+    },
+    {
+      "name": "Besançon",
+      "lan": 47.2603106,
+      "lng": 5.9420565
+    },
+    {
+      "name": "Saint-Vincent-de-Tyrosse",
+      "lan": 43.6582908,
+      "lng": -1.3038921
+    },
+    {
+      "name": "Bayonne",
+      "lan": 43.4844564,
+      "lng": -1.49617
+    },
+    {
+      "name": "Agen",
+      "lan": 44.2011192,
+      "lng": 0.5951025
+    },
+    {
+      "name": "Périgueux",
+      "lan": 45.1938682,
+      "lng": 0.675432
+    },
+    {
+      "name": "St Martin s/s Vigouroux",
+      "lan": 44.9167,
+      "lng": 2.8167
+    },
+    {
+        "name": "Aurillac",
+        "lan": 44.930953,
+        "lng": 2.444997
+    }
+] }
